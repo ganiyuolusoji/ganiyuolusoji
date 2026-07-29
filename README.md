@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Ganiyu olusoji
 
 ###  About Me
